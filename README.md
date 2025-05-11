@@ -49,7 +49,7 @@ lib/
 - **Web**  
   ![](screenshots/Web/Screenshot_1.png)
 - **Real Device**  
-  ![](screenshots/Real Device/IMG_1.jpg)
+  ![](screenshots/Real_Device/IMG_1.png)
 
 ### 🔹 Home Screen
 - **Android**  
@@ -59,7 +59,7 @@ lib/
 - **Web**  
   ![](screenshots/Web/Screenshot_2.png)
 - **Real Device**  
-  ![](screenshots/Real Device/IMG_2.jpg)
+  ![](screenshots/Real_Device/IMG_2.png)
 
 ### 🔹 Product Detail Screen
 - **Android**  
@@ -69,7 +69,7 @@ lib/
 - **Web**  
   ![](screenshots/Web/Screenshot_3.png)
 - **Real Device**  
-  ![](screenshots/Real Device/IMG_3.jpg)
+  ![](screenshots/Real_Device/IMG_3.png)
 
 ### 🔹 Cart Screen
 - **Android**  
@@ -79,7 +79,7 @@ lib/
 - **Web**  
   ![](screenshots/Web/Screenshot_4.png)
 - **Real Device**  
-  ![](screenshots/Real Device/IMG_4.jpg)
+  ![](screenshots/Real_Device/IMG_4.png)
 
 ### 🔹 Purchase Success Screen
 - **Android**  
@@ -89,7 +89,7 @@ lib/
 - **Web**  
   ![](screenshots/Web/Screenshot_5.png)
 - **Real Device**  
-  ![](screenshots/Real Device/IMG_5.jpg)
+  ![](screenshots/Real_Device/IMG_5.png)
 
 ---
 

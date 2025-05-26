@@ -214,7 +214,7 @@ flutter run -d <device_id>
 
 ## 🙌 Developer
 
-**Name:** [Your Name]  
-**Student ID:** [Your Student ID]  
+**Name:** Urvil Harkhani  
+**Student ID:** 1271198  
 **Course:** COMP5450 Mobile Programming  
 **Instructor:** Dr. Sabah Mohammed
